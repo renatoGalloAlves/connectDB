@@ -1,0 +1,11 @@
+/home/gallo/Área de Trabalho/CSharpe_itau/conectDB/bin/Debug/netcoreapp2.2/conectDB.deps.json
+/home/gallo/Área de Trabalho/CSharpe_itau/conectDB/bin/Debug/netcoreapp2.2/conectDB.runtimeconfig.json
+/home/gallo/Área de Trabalho/CSharpe_itau/conectDB/bin/Debug/netcoreapp2.2/conectDB.runtimeconfig.dev.json
+/home/gallo/Área de Trabalho/CSharpe_itau/conectDB/bin/Debug/netcoreapp2.2/conectDB.dll
+/home/gallo/Área de Trabalho/CSharpe_itau/conectDB/bin/Debug/netcoreapp2.2/conectDB.pdb
+/home/gallo/Área de Trabalho/CSharpe_itau/conectDB/obj/Debug/netcoreapp2.2/conectDB.csprojAssemblyReference.cache
+/home/gallo/Área de Trabalho/CSharpe_itau/conectDB/obj/Debug/netcoreapp2.2/conectDB.csproj.CoreCompileInputs.cache
+/home/gallo/Área de Trabalho/CSharpe_itau/conectDB/obj/Debug/netcoreapp2.2/conectDB.AssemblyInfoInputs.cache
+/home/gallo/Área de Trabalho/CSharpe_itau/conectDB/obj/Debug/netcoreapp2.2/conectDB.AssemblyInfo.cs
+/home/gallo/Área de Trabalho/CSharpe_itau/conectDB/obj/Debug/netcoreapp2.2/conectDB.dll
+/home/gallo/Área de Trabalho/CSharpe_itau/conectDB/obj/Debug/netcoreapp2.2/conectDB.pdb
